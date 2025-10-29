@@ -1,0 +1,28 @@
+{
+  "name": "vibe-commerce",
+  "version": "1.0.0",
+  "description": "Full-stack e-commerce shopping cart application",
+  "main": "index.js",
+  "scripts": {
+    "install-all": "cd backend && npm install && cd ../frontend && npm install",
+    "seed": "cd backend && npm run seed",
+    "dev-backend": "cd backend && npm run dev",
+    "dev-frontend": "cd frontend && npm start",
+    "start-backend": "cd backend && npm start",
+    "build-frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "ecommerce",
+    "shopping-cart",
+    "react",
+    "nodejs",
+    "mongodb",
+    "express"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/vibe-commerce"
+  }
+}
