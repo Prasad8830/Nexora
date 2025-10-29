@@ -1,6 +1,35 @@
 # 🛍️ Vibe Commerce - Shopping Cart
 
 
+## 📸 Screenshots
+
+### Products Page
+![Products Page](screenshots/prodcuts.png)
+*Browse our wide range of electronics and accessories*
+
+![Products with Added Items](screenshots/prodcuts_checkin.png)
+*Products with quantity controls after adding to cart*
+
+### Shopping Cart
+![Empty Cart](screenshots/empty_cart.png)
+*Empty cart state with call-to-action*
+
+![Cart with Items](screenshots/cart_added.png)
+*Review your items and proceed to checkout*
+
+### Checkout Process
+![Checkout Form](screenshots/checkout.png)
+*Enter shipping and contact details*
+
+### Order Details
+![Order Details](screenshots/order.png)
+*Review your order details*
+
+### Order History
+![My Orders](screenshots/my_orders.png)
+*View all your previous orders with complete details*
+
+
 ## 🎯 Overview
 
 Vibe Commerce is a e-commerce shopping cart application that demonstrates modern web development practices. The application handles complete shopping cart workflows including product browsing, cart management, and checkout processing.
@@ -165,25 +194,13 @@ Frontend should now be running on `http://localhost:3000`
 
 ## 📸 Screenshots
 
+
 ### Home Page - Product Grid
 ![Products Page](screenshots/products.png)
 *Responsive product grid with add to cart functionality*
 
 ### Shopping Cart
-![Shopping Cart](screenshots/cart.png)
-*Cart view with quantity controls and order summary*
 
-### Checkout Modal
-![Checkout](screenshots/checkout.png)
-*Customer information form with validation*
-
-### Order Receipt
-![Receipt](screenshots/receipt.png)
-*Order confirmation with receipt details*
-
-### Mobile Responsive
-![Mobile View](screenshots/mobile.png)
-*Fully responsive design for mobile devices*
 
 
 ## 🎥 Demo Video
