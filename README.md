@@ -196,7 +196,7 @@ Frontend should now be running on `http://localhost:3000`
 
 ## 🎥 Demo Video
 
-**[Watch Demo Video](your-loom-or-youtube-link-here)**
+**[Watch Demo Video](https://www.loom.com/share/385ed83a14c64310a773505e75bcf7a8)**
 
 
 ### Test the API with cURL
